@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FreePlaceBuild
+  - PlaceBuild
+  - EmptyBuild
+  - Zoo
+  - ExitPoint
+  - DestroyButton
+  - MenuBuild
+  - NPC
+  - HappyPresent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - SpawnedObject
+  - Water
+  - UI
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
